@@ -22,16 +22,23 @@
     
     // примитивные типы
      
+    /*
     BOOL boolVar = YES;
     
     NSInteger intVar = 10;
     
     NSUInteger uIntVar = 100;
     
-    CGFloat floatVar = 1.5f;
+    CGFloat floatVar = 1234.5f;
     
     double doubleVar = 2.5f;
     
+     NSLog(@"boolVar = %d, intVar = %d, uIntVar = %d, floatVar = %.2f, doubleVar = %.3f", boolVar, intVar, uIntVar, floatVar, doubleVar);
+     
+     NSLog(@"sizeof(boolVar) = %ld, sizeof(intVar) = %ld, sizeof(uIntVar) = %ld, sizeof(floatVar) = %ld, sizeof(doubleVar) = %ld", sizeof(boolVar), sizeof(intVar), sizeof(uIntVar), sizeof(floatVar), sizeof(doubleVar));
+    */
+    
+    /*
     NSNumber* boolObject = [NSNumber numberWithBool:boolVar];
     NSNumber* intObject = [NSNumber numberWithInteger:intVar];
     NSNumber* uintObject = [NSNumber numberWithUnsignedInteger:uIntVar];
@@ -47,14 +54,7 @@
           [[array objectAtIndex:2] unsignedIntegerValue],
           [[array objectAtIndex:3] floatValue],
           [[array objectAtIndex:4] doubleValue]);
-    
-    /*
-    NSLog(@"boolVar = %d, intVar = %d, uIntVar = %d, floatVar = %f, doubleVar = %f", boolVar, intVar, uIntVar, floatVar, doubleVar);
-    
-    NSLog(@"sizeof(boolVar) = %ld, sizeof(intVar) = %ld, sizeof(uIntVar) = %ld, sizeof(floatVar) = %ld, sizeof(doubleVar) = %ld", sizeof(boolVar), sizeof(intVar), sizeof(uIntVar), sizeof(floatVar), sizeof(doubleVar));
-    
     */
-    
     
     /*
     RITStudent* studentA = [[RITStudent alloc] init];
@@ -107,7 +107,7 @@
     */
     
     
-    /*
+    
     // структуры - типы определены в фреймворке CoreGraphics
     CGPoint point;
     point.x = 5.5f;
@@ -132,7 +132,8 @@
     CGRectIntersectsRect(rect, rect);
     // возвращает истину, если прямоугольник содержит точку
     CGRectContainsPoint(rect, point);
-    */
+    
+    
     
     CGPoint point1 = CGPointMake(0, 5);
     CGPoint point2 = CGPointMake(3, 4);
@@ -151,6 +152,7 @@
         CGPoint p = [value CGPointValue];
         NSLog(@"point = %@", NSStringFromCGPoint(p));
     }
+    
     return YES;
 }
 
