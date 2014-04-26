@@ -33,20 +33,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A26B3166186A256500E559B4 /* TypesTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TypesTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A26B3166186A256500E559B4 /* 06TypesTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 06TypesTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A26B3169186A256500E559B4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A26B316B186A256500E559B4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		A26B316D186A256500E559B4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		A26B3171186A256500E559B4 /* TypesTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TypesTest-Info.plist"; sourceTree = "<group>"; };
+		A26B3171186A256500E559B4 /* 06TypesTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "06TypesTest-Info.plist"; sourceTree = "<group>"; };
 		A26B3173186A256500E559B4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A26B3175186A256500E559B4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A26B3177186A256500E559B4 /* TypesTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TypesTest-Prefix.pch"; sourceTree = "<group>"; };
+		A26B3177186A256500E559B4 /* 06TypesTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "06TypesTest-Prefix.pch"; sourceTree = "<group>"; };
 		A26B3178186A256500E559B4 /* RITAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RITAppDelegate.h; sourceTree = "<group>"; };
 		A26B3179186A256500E559B4 /* RITAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RITAppDelegate.m; sourceTree = "<group>"; };
 		A26B317B186A256500E559B4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		A26B3181186A256500E559B4 /* TypesTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TypesTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A26B3181186A256500E559B4 /* 06TypesTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 06TypesTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A26B3182186A256500E559B4 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		A26B318A186A256500E559B4 /* TypesTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TypesTestTests-Info.plist"; sourceTree = "<group>"; };
+		A26B318A186A256500E559B4 /* 06TypesTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "06TypesTestTests-Info.plist"; sourceTree = "<group>"; };
 		A26B318C186A256500E559B4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A26B318E186A256500E559B4 /* TypesTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TypesTestTests.m; sourceTree = "<group>"; };
 		A26B3198186A280300E559B4 /* RITStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITStudent.h; sourceTree = "<group>"; };
@@ -90,8 +90,8 @@
 		A26B3167186A256500E559B4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A26B3166186A256500E559B4 /* TypesTest.app */,
-				A26B3181186A256500E559B4 /* TypesTestTests.xctest */,
+				A26B3166186A256500E559B4 /* 06TypesTest.app */,
+				A26B3181186A256500E559B4 /* 06TypesTestTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -123,10 +123,10 @@
 		A26B3170186A256500E559B4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				A26B3171186A256500E559B4 /* TypesTest-Info.plist */,
+				A26B3171186A256500E559B4 /* 06TypesTest-Info.plist */,
 				A26B3172186A256500E559B4 /* InfoPlist.strings */,
 				A26B3175186A256500E559B4 /* main.m */,
-				A26B3177186A256500E559B4 /* TypesTest-Prefix.pch */,
+				A26B3177186A256500E559B4 /* 06TypesTest-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -143,7 +143,7 @@
 		A26B3189186A256500E559B4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				A26B318A186A256500E559B4 /* TypesTestTests-Info.plist */,
+				A26B318A186A256500E559B4 /* 06TypesTestTests-Info.plist */,
 				A26B318B186A256500E559B4 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -152,9 +152,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A26B3165186A256500E559B4 /* TypesTest */ = {
+		A26B3165186A256500E559B4 /* 06TypesTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A26B3192186A256500E559B4 /* Build configuration list for PBXNativeTarget "TypesTest" */;
+			buildConfigurationList = A26B3192186A256500E559B4 /* Build configuration list for PBXNativeTarget "06TypesTest" */;
 			buildPhases = (
 				A26B3162186A256500E559B4 /* Sources */,
 				A26B3163186A256500E559B4 /* Frameworks */,
@@ -164,14 +164,14 @@
 			);
 			dependencies = (
 			);
-			name = TypesTest;
+			name = 06TypesTest;
 			productName = TypesTest;
-			productReference = A26B3166186A256500E559B4 /* TypesTest.app */;
+			productReference = A26B3166186A256500E559B4 /* 06TypesTest.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A26B3180186A256500E559B4 /* TypesTestTests */ = {
+		A26B3180186A256500E559B4 /* 06TypesTestTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A26B3195186A256500E559B4 /* Build configuration list for PBXNativeTarget "TypesTestTests" */;
+			buildConfigurationList = A26B3195186A256500E559B4 /* Build configuration list for PBXNativeTarget "06TypesTestTests" */;
 			buildPhases = (
 				A26B317D186A256500E559B4 /* Sources */,
 				A26B317E186A256500E559B4 /* Frameworks */,
@@ -182,9 +182,9 @@
 			dependencies = (
 				A26B3187186A256500E559B4 /* PBXTargetDependency */,
 			);
-			name = TypesTestTests;
+			name = 06TypesTestTests;
 			productName = TypesTestTests;
-			productReference = A26B3181186A256500E559B4 /* TypesTestTests.xctest */;
+			productReference = A26B3181186A256500E559B4 /* 06TypesTestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -202,7 +202,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A26B3161186A256500E559B4 /* Build configuration list for PBXProject "TypesTest" */;
+			buildConfigurationList = A26B3161186A256500E559B4 /* Build configuration list for PBXProject "06TypesTest" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -214,8 +214,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A26B3165186A256500E559B4 /* TypesTest */,
-				A26B3180186A256500E559B4 /* TypesTestTests */,
+				A26B3165186A256500E559B4 /* 06TypesTest */,
+				A26B3180186A256500E559B4 /* 06TypesTestTests */,
 			);
 		};
 /* End PBXProject section */
@@ -264,7 +264,7 @@
 /* Begin PBXTargetDependency section */
 		A26B3187186A256500E559B4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A26B3165186A256500E559B4 /* TypesTest */;
+			target = A26B3165186A256500E559B4 /* 06TypesTest */;
 			targetProxy = A26B3186186A256500E559B4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -369,9 +369,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TypesTest/TypesTest-Prefix.pch";
-				INFOPLIST_FILE = "TypesTest/TypesTest-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "TypesTest/06TypesTest-Prefix.pch";
+				INFOPLIST_FILE = "TypesTest/06TypesTest-Info.plist";
+				PRODUCT_NAME = 06TypesTest;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -382,9 +382,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TypesTest/TypesTest-Prefix.pch";
-				INFOPLIST_FILE = "TypesTest/TypesTest-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "TypesTest/06TypesTest-Prefix.pch";
+				INFOPLIST_FILE = "TypesTest/06TypesTest-Info.plist";
+				PRODUCT_NAME = 06TypesTest;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -405,8 +405,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "TypesTestTests/TypesTestTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "TypesTestTests/06TypesTestTests-Info.plist";
+				PRODUCT_NAME = 06TypesTestTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -424,8 +424,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TypesTest/TypesTest-Prefix.pch";
-				INFOPLIST_FILE = "TypesTestTests/TypesTestTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "TypesTestTests/06TypesTestTests-Info.plist";
+				PRODUCT_NAME = 06TypesTestTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -434,7 +434,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A26B3161186A256500E559B4 /* Build configuration list for PBXProject "TypesTest" */ = {
+		A26B3161186A256500E559B4 /* Build configuration list for PBXProject "06TypesTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A26B3190186A256500E559B4 /* Debug */,
@@ -443,21 +443,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A26B3192186A256500E559B4 /* Build configuration list for PBXNativeTarget "TypesTest" */ = {
+		A26B3192186A256500E559B4 /* Build configuration list for PBXNativeTarget "06TypesTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A26B3193186A256500E559B4 /* Debug */,
 				A26B3194186A256500E559B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		A26B3195186A256500E559B4 /* Build configuration list for PBXNativeTarget "TypesTestTests" */ = {
+		A26B3195186A256500E559B4 /* Build configuration list for PBXNativeTarget "06TypesTestTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A26B3196186A256500E559B4 /* Debug */,
 				A26B3197186A256500E559B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
